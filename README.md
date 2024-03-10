@@ -19,18 +19,18 @@
 ## Screenshots
 
 <p align="center"> 
- <img src="images/img1.png" width="366" height="696" alt="Landing">  
- <img src="images/img2.png" width="366" height="696" alt="Language selection">
+ <img src="images/img1.png" width="366" height="696" >  
+ <img src="images/img2.png" width="366" height="696" >
 </p>  
 
 <p align="center"> 
- <img src="images/img3.png" width="366" height="696" alt="Landing">  
- <img src="images/img4.png" width="366" height="696" alt="Language selection">
+ <img src="images/img3.png" width="366" height="696" >  
+ <img src="images/img4.png" width="366" height="696" >
 </p>  
 
 <p align="center"> 
- <img src="images/img5.png" width="366" height="696" alt="Landing">  
- <img src="images/img6.png" width="366" height="696" alt="Language selection">
+ <img src="images/img5.png" width="366" height="696" >  
+ <img src="images/img6.png" width="366" height="696" >
 </p>  
 
 
